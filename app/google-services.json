@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1060821534857",
+    "firebase_url": "https://chat-app-26179.firebaseio.com",
+    "project_id": "chat-app-26179",
+    "storage_bucket": "chat-app-26179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060821534857:android:5ca4c92c9e335dacfd9e58",
+        "android_client_info": {
+          "package_name": "com.arcadegamepark.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060821534857-k39lv2s2pefc677tc3s5gjhi9c7dguoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arcadegamepark.chatapp",
+            "certificate_hash": "3031717d021fdcfb080018b03de925869a0209c2"
+          }
+        },
+        {
+          "client_id": "1060821534857-qv6i6qnu8airasikc5e6i6ko25efkk8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZCX4SPKzFeZL500KZd17oL3bVuPYcdqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060821534857-qv6i6qnu8airasikc5e6i6ko25efkk8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
